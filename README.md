@@ -1,7 +1,6 @@
 # Intro 
 
-This repo contains the code for the paper
-[Integrating the 17 SDGs into the European Green Deal, through Strategic and Financial Approaches](https://www.researchsquare.com/article/rs-2697240/v1).
+This repo contains the code for the paper "Integrating the 17 SDGs into the European Green Deal, through Strategic and Financial Approaches" 
  
 ### Scripts 
 
